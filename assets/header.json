@@ -2,9 +2,9 @@
   "name"     : "Ian Carlo Rodríguez Pico",
   "titulos"  : "Ningunos",
   "objetivo" : "Convertirme en project manager",
-  "imagen"   : "gs://mycv-f4d5d.appspot.com/damn_bro.jpg",
+  "foto"     : "https://firebasestorage.googleapis.com/v0/b/mycv-f4d5d.appspot.com/o/damn_bro.jpg?alt=media&token=f7e3666c-b9ad-4cae-b998-334f3c508344",
   "email"    : "zS21004532@estudiantes.uv.mx",
   "celular"  : "(272) 135 6455",
-  "ubicación": "Orizaba Veracruz",
-  "facebook" : "Ian Pico",
+  "ubicacion": "Orizaba Veracruz",
+  "facebook" : "Ian Pico"
 }

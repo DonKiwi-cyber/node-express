@@ -1,0 +1,26 @@
+[
+    {
+        "puesto": "frontend developer",
+        "empresa": "UV",
+        "fechaInicio": "08/2022",
+        "fechaFin": "11/2022",
+        "ciudad": "Ixtaczoquitlan",
+        "pais": "Mexico",
+        "logros": [
+            { "descripcion": "fronted integration with Java" }
+        ]
+    },
+    {
+        "puesto": "backend developer",
+        "empresa": "UV",
+        "fechaInicio": "02/2023",
+        "fechaFin": "06/2023",
+        "ciudad": "Ixtaczoquitlan",
+        "pais": "Mexico",
+        "logros": [
+            { "descripcion": "DataBase development" },
+            { "descripcion": "APIRest integration with JavaScript based on Node-Express"},
+            { "descripcion": "Web dropping of Application 'UVoard'"}
+        ]
+    }
+]
