@@ -1,22 +1,22 @@
 [
     {
-        "icono": "",
+        "icono": "https://firebasestorage.googleapis.com/v0/b/mycv-f4d5d.appspot.com/o/dibujo.png?alt=media&token=af4c9f35-bec6-4ca8-82ed-1e85a45bdb9b",
         "interes": "Dibujo"
     },
     {
-        "icono": "",
+        "icono": "https://firebasestorage.googleapis.com/v0/b/mycv-f4d5d.appspot.com/o/palomitas-de-maiz.png?alt=media&token=88e7475b-1528-463d-8fe5-c95f66cba695",
         "interes": "Cinematografía"
     },  
     {
-        "icono": "",
+        "icono": "https://firebasestorage.googleapis.com/v0/b/mycv-f4d5d.appspot.com/o/javascript.png?alt=media&token=84ed9f07-c3fd-425b-a22d-4922879c3037",
         "interes": "JavaScript"
     },
     {
-        "icono": "",
+        "icono": "https://firebasestorage.googleapis.com/v0/b/mycv-f4d5d.appspot.com/o/libro-abierto.png?alt=media&token=09a416ae-a569-4158-bbb3-0eacc8d8ea75",
         "interes": "Literatura"
     },
     {
-        "icono": "",
+        "icono": "https://firebasestorage.googleapis.com/v0/b/mycv-f4d5d.appspot.com/o/cocinero.png?alt=media&token=f410f7df-ae10-44a0-ad79-4ef23f8a8ca4",
         "interes": "Cocina"
     }
 ]
