@@ -1,17 +1,17 @@
 [
     {
         "nombre": "Certificado de conocimiento básico en robótica",
-        "año": 2018,
+        "ano": 2018,
         "descripcion": null
     },
     { 
         "nombre": "Certificado TOEFL nivel B2",
-        "año": 2021,
+        "ano": 2021,
         "descripcion": "Reconocimiento oficial de dominio del idioma inglés en nivel avanzado"
     },
     {
         "nombre": "Reconocimiento por puntaje más alto en el examen ingreso CENEVAL UV",
-        "año": 2021,
+        "ano": 2021,
         "descripcion": null
     }
 ]
