@@ -14,7 +14,7 @@ spec:
         app: {MODEL_NAME}-server
     spec:
       containers:
-      - name: {MODEL_NAME]-container
+      - name: {MODEL_NAME}-container
         #image: gcr.io/tensorflow-serving/resnet 
         image: docker.io/{DOCKER_USER}/{MODEL_NAME}:{github.sha}
         imagePullPolicy: Always
