@@ -34,6 +34,8 @@ app.get('/interests', (req, res, next) => {
 });
 
 
+//a1_test
+
 app.get('/a1_proxy_size', (req, res, next) => {
   res.sendfile("assets/a1_proxy_size.json");
 })
@@ -42,6 +44,23 @@ app.get('/a1_dev_hours', (req, res, next) => {
   res.sendfile("assets/a1_dev_hours.json");
 })
 
+//a3_test
+
+app.get('/a3_test1', (req, res, next) => {
+  res.sendfile("assets/a3_test1.json");
+})
+
+app.get('/a3_test2', (req, res, next) => {
+  res.sendfile("assets/a3_test2.json");
+})
+
+app.get('/a3_test3', (req, res, next) => {
+  res.sendfile("assets/a3_test3.json");
+})
+
+app.get('/a3_test4', (req, res, next) => {
+  res.sendfile("assets/a3_test4.json");
+})
 
 app.listen(port,  () => 
 	console.log('listening on port ' + port
